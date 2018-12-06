@@ -1,5 +1,5 @@
 {
-    "name": "workflows",
+    "name": "gulp-linux-image-minify",
     "version": "1.0.0",
     "description": "Workflow Project",
     "main": "index.js",
