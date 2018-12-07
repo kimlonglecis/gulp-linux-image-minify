@@ -1,8 +1,20 @@
 # Changelog
 Changelog for gulp-linux-image-minfy repo
 
-## Unreleased
-### Changed
+## Version:		1.0.3 - 12-07-2018
+### Added:
+- N/A
+
+### Changed:
+- gulp ^3.9.1 -> ^4.0
+- gulp-imagemin ^2.4.0 -> ^5.0.3
+- imagemin-pngcrush ^4.1.0 -> ^6.0.0
+### Improvement:
+- N/A
+
+### Removed
+- N/A
+
 
 ## Version:		1.0.2 - 12-07-2018
 ### Added:
