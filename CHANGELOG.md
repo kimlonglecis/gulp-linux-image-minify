@@ -4,6 +4,19 @@ Changelog for gulp-linux-image-minfy repo
 ## Unreleased
 ### Changed
 
+## Version:		1.0.2 - 12-07-2018
+### Added:
+- Folder media/images/compressed && media/images/non-compressed
+
+### Changed:
+- N/A
+
+### Improvement:
+- N/A
+
+### Removed
+- N/A
+
 
 ## Version:		1.0.1 - 12-07-2018
 ### Added:

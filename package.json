@@ -1,6 +1,6 @@
 {
     "name": "gulp-linux-image-minify",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Workflow Project",
     "devDependencies": {
       "gulp": "^3.9.1",
